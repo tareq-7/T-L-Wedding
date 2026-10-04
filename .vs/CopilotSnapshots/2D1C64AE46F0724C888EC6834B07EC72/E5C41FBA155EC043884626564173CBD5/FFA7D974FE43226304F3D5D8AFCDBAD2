@@ -1,4 +1,4 @@
-:root {
+﻿:root {
   --ivory: #faf8f3;
   --ink: #433d34;
   --muted: #706759;
@@ -159,19 +159,6 @@ h1 em {
   position: relative;
   z-index: -0;
   pointer-events: none;
-}
-
-/* Decorative divider between sections */
-.divider {
-  text-align: center;
-  margin: 1.5rem 0 2rem;
-}
-
-.divider-img {
-  max-width: 320px;
-  width: 50%;
-  height: auto;
-  display: inline-block;
 }
 
 .countdown-section {

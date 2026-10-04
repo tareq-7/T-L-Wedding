@@ -1,4 +1,4 @@
-<!doctype html>
+﻿<!doctype html>
 <html lang="en">
 <head>
   <meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
@@ -30,20 +30,17 @@
           <div class="details"><div><span class="detail-label">When</span><h3>Friday, 30 April 2027</h3><p>6:00pm</p><a class="text-link" href="wedding.ics" download>Add to calendar</a></div><div><span class="detail-label">Where</span><h3>La Plage</h3><p>Hyatt Regency Beach Club<br>Aqaba, Jordan</p><a class="text-link" href="https://www.google.com/maps/search/?api=1&amp;query=La+Plage+Hyatt+Regency+Beach+Club+Aqaba+Jordan" target="_blank" rel="noopener noreferrer">Find the venue</a></div></div>
       </section>
       <!--<section id="theme" class="theme" aria-labelledby="theme-title">
-        <p class="eyebrow">Inspired by the sunset</p>
-        <h2 id="theme-title">The colours of our celebration</h2>
-        <p class="theme-intro">Warm sunset colours, seaside flowers and a little golden light. Our wedding theme brings together soft peach, coral, golden yellow and olive green.</p>
-        <ul class="palette" aria-label="Wedding theme colours">
-            <li><span class="swatch peach" aria-hidden="true"></span>Peach</li>
-            <li><span class="swatch coral" aria-hidden="true"></span>Coral</li>
-            <li><span class="swatch gold" aria-hidden="true"></span>Golden yellow</li>
-            <li><span class="swatch olive" aria-hidden="true"></span>Olive green</li>
-        </ul>
-        <p class="theme-note">If you’d like to join in with the theme, take inspiration from these colours when choosing your outfit or accessories. The palette is inspiration, so wear something that makes you feel comfortable and ready to celebrate.</p>
-    </section>-->
-      <div class="divider" aria-hidden="true">
-          <img src="assets/div2.png" alt="" class="divider-img">
-      </div>
+          <p class="eyebrow">Inspired by the sunset</p>
+          <h2 id="theme-title">The colours of our celebration</h2>
+          <p class="theme-intro">Warm sunset colours, seaside flowers and a little golden light. Our wedding theme brings together soft peach, coral, golden yellow and olive green.</p>
+          <ul class="palette" aria-label="Wedding theme colours">
+              <li><span class="swatch peach" aria-hidden="true"></span>Peach</li>
+              <li><span class="swatch coral" aria-hidden="true"></span>Coral</li>
+              <li><span class="swatch gold" aria-hidden="true"></span>Golden yellow</li>
+              <li><span class="swatch olive" aria-hidden="true"></span>Olive green</li>
+          </ul>
+          <p class="theme-note">If you’d like to join in with the theme, take inspiration from these colours when choosing your outfit or accessories. The palette is inspiration, so wear something that makes you feel comfortable and ready to celebrate.</p>
+      </section>-->
       <section id="rsvp" class="rsvp" aria-labelledby="rsvp-title">
           <p class="eyebrow">We hope you can join us</p><h2 id="rsvp-title">A little yes means a lot</h2>
           <p class="rsvp-intro">Please let us know whether you’ll be celebrating with us.<br>Include the names of everyone attending from your invitation.</p>
@@ -51,9 +48,6 @@
           <div id="rsvp-container"><p class="setup-message">Our RSVP form will be available here soon. Please check back to send your response.</p></div>
           <noscript><p>Please enable JavaScript to view the RSVP form.</p></noscript>
       </section>
-      <div class="divider" aria-hidden="true">
-          <img src="assets/div3.png" alt="" class="divider-img">
-      </div>
       <section id="stay" class="jordan accommodation" aria-labelledby="stay-title">
           <p class="eyebrow">Stay a little longer</p><h2 id="stay-title">Where to stay in Aqaba</h2>
           <p class="jordan-intro">Here are a few hotel options for your wedding trip, from the venue’s resort to other places to stay in Aqaba.</p>
@@ -65,9 +59,6 @@
           </div>
           <p class="travel-note">Check availability for your dates. These links do not include a wedding discount or reserved room block.</p>
       </section>
-      <div class="divider" aria-hidden="true">
-          <img src="assets/div1.png" alt="" class="divider-img">
-      </div>
       <section id="jordan" class="jordan" aria-labelledby="jordan-title">
           <p class="eyebrow">Make a trip of it</p><h2 id="jordan-title">A little more of Jordan</h2>
           <p class="jordan-intro">If you’re joining us from abroad, why not stay a little longer? Here are a few places to explore before or after the wedding.</p>

@@ -1,4 +1,4 @@
-:root {
+﻿:root {
   --ivory: #faf8f3;
   --ink: #433d34;
   --muted: #706759;
@@ -168,8 +168,8 @@ h1 em {
 }
 
 .divider-img {
-  max-width: 320px;
-  width: 50%;
+  max-width: 640px;
+  width: 90%;
   height: auto;
   display: inline-block;
 }
