@@ -88,3 +88,4 @@ The guest travel section includes Petra (1 full day; 2 for a slower visit), Wadi
 ## Accommodation
 
 Includes Hyatt Regency Aqaba Ayla Resort (home to La Plage Beach Club), Kempinski Hotel Aqaba Red Sea, InterContinental Aqaba and DoubleTree by Hilton Aqaba. Descriptions and official links were checked against hotel websites on 1 October 2026. Rates, availability, room blocks, discounts and transfer times are not asserted. Guests should check their dates directly with each property.
+
