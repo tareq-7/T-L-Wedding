@@ -573,6 +573,8 @@ header nav { flex-wrap: wrap; justify-content: flex-end; gap: 0.75rem 1.25rem; }
 
 @media (max-width: 600px) {
     .floral-heading {
+        width: 100vw;
+        margin-left: calc(50% - 50vw);
         background-size: 100% auto;
         background-position: center;
         background-repeat: no-repeat;
