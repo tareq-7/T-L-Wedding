@@ -1,0 +1,13 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Tareq and Layan//Wedding//EN
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:tareq-layan-wedding-20270430
+DTSTAMP:20261001T210000Z
+DTSTART:20270430T150000Z
+SUMMARY:Tareq and Layan's Wedding
+LOCATION:La Plage - Hyatt Regency Beach Club\, Aqaba\, Jordan
+DESCRIPTION:Join us to celebrate our wedding. Starts at 6pm Jordan time.
+END:VEVENT
+END:VCALENDAR
